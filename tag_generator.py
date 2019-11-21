@@ -5,7 +5,7 @@ import sys
 # print(sys.getrecursionlimit())
 a=[]
 # sys.setrecursionlimit(1000)
-word='chicken'
+word=str (input ('Enter word : '))
 for syn in wordnet.synsets(word): 
         for l in syn.hyponyms():
             for j in l.lemmas():
