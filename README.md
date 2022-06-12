@@ -1,5 +1,6 @@
 # tag-generator
-This algorithm generates tag that you can use in any social Media platform
+This algorithm generates tag that you can use in any social Media platform <br>
+Its  a Machine Learning based Tag Generator in where you have to type any word lets say Cup an it will give you a list of trending tags based on that word that will help you to get more likes in any Social Media 
 
 The Process are:-
 1. I use NLTK(Natural Langauge Toolkit) to generate synonyms and hyponym
